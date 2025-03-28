@@ -19,7 +19,7 @@ Jazyk: čeština/angličtina
 ## Konvence pojmenování v Kódu: 
 
  * Obecná pravidla (česky, jednotné i množné číslo podle potřeby)
- * Metody: camelCase (např. loadDomovskaStranka, getKnizkyAutoru)
+ * Metody: camelCase (např. loadDomovskaStranka, getKnizkyAutora)
 
 ---
 
@@ -28,7 +28,7 @@ Jazyk: čeština/angličtina
 ### Controllery
 
 * PascalCase | Formát: [Controller][View]
-* Příklad: ControllerDomovskáStránka
+* Příklad: ControllerDomovskaStranka
   
 ### Viewčka
 
